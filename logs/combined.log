@@ -27,3 +27,10 @@
 {"level":"info","message":"user adrian@jsmastery.pro created successfully.","service":"acquisitions-api"}
 {"level":"info","message":"User registered successfully: adrian@jsmastery.pro","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [17/Jul/2026:15:49:21 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User adrian@jsmastery.pro authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: adrian@jsmastery.pro","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Jul/2026:16:25:41 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 118 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Jul/2026:16:26:03 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Jul/2026:16:26:11 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
